@@ -1,4 +1,4 @@
 aludratest-maven-plugin
 =======================
 
-A Maven plugin providing reporting and other goals related to AludraTest.
+A Maven plugin providing reporting and other goals using the AludraTest framework.
